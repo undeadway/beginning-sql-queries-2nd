@@ -1,6 +1,8 @@
 # BeginBeginningSQLQueries2nd_CN
 Beginning SQL Queries-2nd Edition （从SQL查询开始第二版）中文翻译
 
+[![cover](cover.jpg)](img/cover.jpg)
+
 >翻译序言
 >第一次知道这本书大概是15年，然后在网上一番搜索之后，竟然没有发现中文本，无奈之下，只能找到了英文原版来看。
 >这一看，就是好几年，然后在懒癌+拖延症的双重作用下，一直拖到今天。

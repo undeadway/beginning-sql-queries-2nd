@@ -23,5 +23,5 @@ Beginning SQL Queries-2nd Edition （从SQL查询开始第二版）中文翻译
 那就暂时这样吧。
 
 # 章节目录
-[致谢](docs/Acknowledgments.md)
+[致谢](docs/Acknowledgments.md)  
 [简介](docs/Introduction.md)

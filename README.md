@@ -13,7 +13,7 @@ Beginning SQL Queries-2nd Edition （从SQL查询开始第二版）中文翻译
 >
 >不过，鉴于各种主观客观原因，可能到这本书第三版出版了，我还没翻译完，这就别怪我了……
 >
-> 原书PDF 下载：https://smtebooks.com/book/1540/beginning-sql-queries-2nd-edition-pdf
+> 原书PDF 下载：[https://smtebooks.com/book/1540/beginning-sql-queries-2nd-edition-pdf](https://smtebooks.com/book/1540/beginning-sql-queries-2nd-edition-pdf)
 
 # 授权声明
 虽然本人的这份翻译在各位大神眼中或许就是个渣，但即便如此，也不希望这份翻译被各种盗版商拿去误人子弟，不仅对不起各位学子，也对不起我自己的良心。  
@@ -23,3 +23,5 @@ Beginning SQL Queries-2nd Edition （从SQL查询开始第二版）中文翻译
 那就暂时这样吧。
 
 # 章节目录
+[致谢](docs/Acknowledgments.md)
+[简介](docs/Introduction.md)

@@ -1,6 +1,5 @@
-# README
+# Beginning SQL Queries-2nd Edition （从SQL查询开始第二版）中文翻译
 
-#Beginning SQL Queries-2nd Edition （从SQL查询开始第二版）中文翻译
 [![cover](img/cover.jpg)](cover.jpg)
 
 #翻译序言  

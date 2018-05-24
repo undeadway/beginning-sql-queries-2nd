@@ -22,4 +22,10 @@
 那就暂时这样吧。
 
 # 阅读
-本书采用[gitbook-cli](https://github.com/GitbookIO/gitbook-cli)进行构筑，想要在本地搭建阅读环境的，请遵循`gitbook-cli`的方式来进行。
+源代码：[BeginningSQLQueries2nd_CN](https://github.com/undeadway/BeginningSQLQueries2nd_CN)
+
+本书采用[gitbook-cli](https://github.com/GitbookIO/gitbook-cli)进行构筑，想要在本地搭建阅读环境的，请遵循`gitbook-cli`的方式来进行。  
+```
+npm install gitbook-cli -g
+gitbook serve
+```

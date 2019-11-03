@@ -1,8 +1,11 @@
 # Beginning SQL Queries-2nd Edition （开始SQL查询：从小工到专家 第二版）中文翻译
 
+
 ![cover](./img/cover.jpg)
 
-#翻译序言  
+
+# 翻译序言  
+
 第一次知道这本书大概是15年，然后在网上一番搜索之后，竟然没有发现中文本，无奈之下，只能找到了英文原版来看。  
 这一看，就是好几年，然后在懒癌+拖延症的双重作用下，一直拖到今天。  
 最近因为某些机缘，重新把这书找了出来，然后发现第二版竟然也经出了，于是当时下的第一版也就扔一边去吧……  
@@ -15,6 +18,7 @@
 >原书PDF 下载：[https://smtebooks.com/book/1540/beginning-sql-queries-2nd-edition-pdf](https://smtebooks.com/book/1540/beginning-sql-queries-2nd-edition-pdf)
 
 # 授权声明
+
 虽然本人的这份翻译在各位大神眼中或许就是个渣，但即便如此，也不希望这份翻译被各种盗版商拿去误人子弟，不仅对不起各位学子，也对不起我自己的良心。  
 所以本人**保留所有权利**，拿去私用没问题，修改之后自己小范围内分享OK，但就是**不能拿来商用**。  
 看了看，似乎就是MIT许可证？
@@ -22,7 +26,8 @@
 那就暂时这样吧。
 
 # 阅读
-源代码：[BeginningSQLQueries2nd_CN](https://github.com/undeadway/BeginningSQLQueries2nd_CN)
+
+源代码：[BeginningSQLQueries2nd_CN](./)
 
 本书采用[gitbook-cli](https://github.com/GitbookIO/gitbook-cli)进行构筑，想要在本地搭建阅读环境的，请遵循`gitbook-cli`的方式来进行。  
 ```

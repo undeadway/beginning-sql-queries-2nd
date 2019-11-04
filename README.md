@@ -15,7 +15,7 @@
 
 不过，鉴于各种主观客观原因，可能到这本书第三版出版了，我还没翻译完，这就别怪我了……
 
->原书PDF 下载：[https://smtebooks.com/book/1540/beginning-sql-queries-2nd-edition-pdf](https://smtebooks.com/book/1540/beginning-sql-queries-2nd-edition-pdf)
+>原书PDF 下载：[http://www.allitebooks.in/beginning-sql-queries-second-edition/)
 
 # 授权声明
 
@@ -26,3 +26,10 @@
 那就暂时这样吧。
 
 # 阅读
+
+## 在线阅读
+[开始SQL查询：从小工到专家 第二版 中文翻译](http://beginningsqlqueries2nd.waygc.net/)
+
+## 本地构筑
+可以通过 gitbook 构建。
+

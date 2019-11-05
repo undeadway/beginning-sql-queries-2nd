@@ -1,7 +1,7 @@
 # Beginning SQL Queries-2nd Edition （开始SQL的执行：从小工到专家 第二版）中文翻译
 
 
-![cover](/beginning-sql-queries-2nd/img/cover.jpg)
+![cover](./img/cover.jpg)
 
 
 # 翻译序言  

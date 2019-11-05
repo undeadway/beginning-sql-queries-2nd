@@ -31,5 +31,9 @@
 [开始SQL的执行：从小工到专家 第二版 中文翻译](http://translates.waygc.net/beginning-sql-queries-2nd/)
 
 ## 本地构筑
-可以通过 gitbook 构建。
-
+可以通过 gitbook 构建（需要翻墙）。
+```
+npm install -g gitbook-cli
+gitbook build
+```
+构筑完毕后，会在项目根目录下生成一个`_book`文件夹，点击其中的`index.html`就可以本地阅读了。

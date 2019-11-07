@@ -1,4 +1,4 @@
-# Beginning SQL Queries-2nd Edition （开始SQL的执行：从小工到专家 第二版）中文翻译
+# Beginning SQL Queries-2nd Edition （开始SQL查询：从小工到专家 第二版）中文翻译
 
 
 ![cover](./img/cover.jpg)
@@ -29,7 +29,7 @@
 # 阅读
 
 ## 在线阅读
-[开始SQL的执行：从小工到专家 第二版 中文翻译](http://translates.waygc.net/beginning-sql-queries-2nd/)
+[开始SQL查询：从小工到专家 第二版](http://translates.waygc.net/beginning-sql-queries-2nd/)
 
 ## 本地构筑
 可以通过 gitbook 构建（需要翻墙）。

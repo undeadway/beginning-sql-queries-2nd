@@ -16,7 +16,7 @@
 
 不过，鉴于各种主观客观原因，可能到这本书第三版出版了，我还没翻译完，这就别怪我了……
 
->原书PDF 下载：[](http://www.allitebooks.in/beginning-sql-queries-second-edition/)
+>原书PDF 下载：http://www.allitebooks.in/beginning-sql-queries-second-edition/
 
 # 授权声明
 
@@ -29,7 +29,7 @@
 # 阅读
 
 ## 在线阅读
-[](http://translates.waygc.net/beginning-sql-queries-2nd/)
+http://translates.waygc.net/beginning-sql-queries-2nd/
 
 ## 本地构筑
 可以通过 gitbook 构建（需要翻墙）。

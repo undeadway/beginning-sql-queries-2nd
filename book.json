@@ -1,0 +1,32 @@
+{
+    "title": "开始SQL查询：从小工到专家 第二版",
+    "description": "Beginning SQL queries 2nd Edition 的中文翻译",
+    "author": "[美]Clare Churcher",
+    "output.name": "site",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "root": ".",
+    "structure": {
+        "readme": "README.md"
+    },
+    "links": {
+        "sidebar": {
+            "Home": "http://translates.waygc.net/beginning-sql-queries-2nd/"
+        }
+    },
+ 
+    "pluginsConfig": {
+        "rss": {
+            "title": "开始SQL查询：从小工到专家 第二版",
+            "description": "Beginning SQL queries 2nd Edition 的中文翻译",
+            "author": "[美]Clare Churcher",
+            "feed_url": "http://translates.waygc.net/beginning-sql-queries-2nd/,
+            "site_url": "http://translates.waygc.net",
+            "managingEditor": hzwaygc@gmail.com",
+            "webMaster": "hzwaygc@gmail.com",
+            "categories": [
+                "gitbook"
+            ]
+        }
+    }
+}

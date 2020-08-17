@@ -18,7 +18,6 @@
 			"我的文字": "http://words.waygc.net/"
 		}
 	},
- 
 	"pluginsConfig": {
 		"rss": {
 			"title": "开始SQL查询：从小工到专家 第二版",
@@ -31,6 +30,15 @@
 			"categories": [
 				"gitbook"
 			]
+		},
+		"favicon": {
+			"shortcut": "/home/waygc/waygc/root/favicon.ico",
+			"bookmark": "/home/waygc/waygc/root/favicon.ico",
+			"appleTouch": "/home/waygc/waygc/root/apple-touch-icon.png",
+			"appleTouchMore": {
+				"120x120": "/home/waygc/waygc/root/apple-touch-icon-120x120.png",
+				"180x180": "/home/waygc/waygc/root/apple-touch-icon-180x180.png"
+			}
 		}
 	}
 }
